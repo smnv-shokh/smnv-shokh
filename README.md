@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @smnv-shokh(JS, Python)
 - 👀 I’m interested in WebDev
-- 🌱 I’m currently learning React.js, planning to learn RUST
+- 🌱 I’m currently learning React.js, planning to learn RUST, Next.js
 - 💞️ I’m looking to collaborate on everything, activly looking for experience 
 - 📫 How to reach me shokhruh.usmonov@gmail.com
 
